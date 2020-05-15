@@ -13,6 +13,9 @@
 		B2B814F5246A4A76007F78D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2B814F3246A4A76007F78D0 /* Main.storyboard */; };
 		B2B814F7246A4A78007F78D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2B814F6246A4A78007F78D0 /* Assets.xcassets */; };
 		B2B814FA246A4A78007F78D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2B814F8246A4A78007F78D0 /* LaunchScreen.storyboard */; };
+		B2B81526246E18CE007F78D0 /* CollectPoint.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B2B81525246E18CE007F78D0 /* CollectPoint.mp3 */; };
+		B2B8152A246E1A94007F78D0 /* Achievement.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B2B81529246E1A94007F78D0 /* Achievement.mp3 */; };
+		B2B8152C246E1AC6007F78D0 /* Shoot.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B2B8152B246E1AC6007F78D0 /* Shoot.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		B2B814F6246A4A78007F78D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2B814F9246A4A78007F78D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2B814FB246A4A78007F78D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2B81525246E18CE007F78D0 /* CollectPoint.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CollectPoint.mp3; sourceTree = "<group>"; };
+		B2B81529246E1A94007F78D0 /* Achievement.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Achievement.mp3; sourceTree = "<group>"; };
+		B2B8152B246E1AC6007F78D0 /* Shoot.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Shoot.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				B2B814F6246A4A78007F78D0 /* Assets.xcassets */,
 				B2B814F8246A4A78007F78D0 /* LaunchScreen.storyboard */,
 				B2B814FB246A4A78007F78D0 /* Info.plist */,
+				B2B81525246E18CE007F78D0 /* CollectPoint.mp3 */,
+				B2B81529246E1A94007F78D0 /* Achievement.mp3 */,
+				B2B8152B246E1AC6007F78D0 /* Shoot.mp3 */,
 			);
 			path = game;
 			sourceTree = "<group>";
@@ -127,7 +136,10 @@
 			files = (
 				B2B814FA246A4A78007F78D0 /* LaunchScreen.storyboard in Resources */,
 				B2B814F7246A4A78007F78D0 /* Assets.xcassets in Resources */,
+				B2B8152C246E1AC6007F78D0 /* Shoot.mp3 in Resources */,
+				B2B81526246E18CE007F78D0 /* CollectPoint.mp3 in Resources */,
 				B2B814F5246A4A76007F78D0 /* Main.storyboard in Resources */,
+				B2B8152A246E1A94007F78D0 /* Achievement.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
