@@ -14,6 +14,8 @@ import AVFoundation
 //    let image: UIColor;
 //}
 
+//change
+
 //if v >= 1 && v <= 16 {
 //picture.image = UIImage(named: "frame_\(v)")
 //picture.image = UIImage(named: "frame_\(v+1)");
